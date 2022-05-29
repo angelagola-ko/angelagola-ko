@@ -1,5 +1,4 @@
-# Hi there, my name is Angela Gola!
-# Here's a little about me 😄
+# Hi there, my name is Angela Gola! Here's a little about me 😄
 
 ### Events & Operations Manager turned developer March 2022! I am passionae about coding and I cannot wait to turn it into my career! 🖌️
 
