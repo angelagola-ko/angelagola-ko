@@ -1,6 +1,6 @@
 # Hi there, my name is Angela Gola! Here's a little about me 😄
 
-### Events & Operations Manager turned developer March 2022! I am passionate about design and coding! 
+### Full Stack Web Developer. I am passionate about design and coding! 
 ### Looking to turn this newfound passion into a career! 🖌️
 
 ### Contact Me
